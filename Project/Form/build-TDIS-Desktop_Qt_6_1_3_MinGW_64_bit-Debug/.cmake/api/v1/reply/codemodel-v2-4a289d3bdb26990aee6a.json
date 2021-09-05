@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "TDIS",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "TDIS::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TDIS-Debug-f2b1762a61f6e8510fbf.json",
+					"name" : "TDIS",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TDIS_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TDIS_autogen-Debug-2136856991a2346200c9.json",
+					"name" : "TDIS_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TDIS_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TDIS_autogen_timestamp_deps-Debug-4b7bfd26f81c5ac9dd34.json",
+					"name" : "TDIS_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/WorkSpace/TDIS/Project/Form/build-TDIS-Desktop_Qt_6_1_3_MinGW_64_bit-Debug",
+		"source" : "D:/WorkSpace/TDIS/Project/Form/TDIS"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

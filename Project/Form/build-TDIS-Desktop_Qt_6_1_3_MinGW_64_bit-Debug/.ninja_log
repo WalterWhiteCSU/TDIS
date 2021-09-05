@@ -1,0 +1,9 @@
+# ninja log v5
+1	1049	6525126017446068	TDIS_autogen/timestamp	ec91cc92e2be0e72
+1	1049	6525126017446068	TDIS_autogen/mocs_compilation.cpp	ec91cc92e2be0e72
+1	1049	6525126017446068	D:/WorkSpace/TDIS/Project/Form/build-TDIS-Desktop_Qt_6_1_3_MinGW_64_bit-Debug/TDIS_autogen/timestamp	ec91cc92e2be0e72
+1	1049	6525126017446068	D:/WorkSpace/TDIS/Project/Form/build-TDIS-Desktop_Qt_6_1_3_MinGW_64_bit-Debug/TDIS_autogen/mocs_compilation.cpp	ec91cc92e2be0e72
+1050	3454	6525126042736381	CMakeFiles/TDIS.dir/TDIS_autogen/mocs_compilation.cpp.obj	e9fbd52d0a396928
+1058	3580	6525126043998207	CMakeFiles/TDIS.dir/main.cpp.obj	27e3de6cc8a50bdc
+1054	3617	6525126044387671	CMakeFiles/TDIS.dir/mainwindow.cpp.obj	62696653d6158f88
+3618	4581	6525126053992378	TDIS.exe	370a55b28b0ec94b
